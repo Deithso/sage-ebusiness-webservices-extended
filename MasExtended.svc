@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="false" Service="Sage.Mas.Ws.MasExtended" CodeBehind="MasExtended.svc.cs" %>
